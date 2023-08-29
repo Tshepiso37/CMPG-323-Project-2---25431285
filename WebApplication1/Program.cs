@@ -16,7 +16,7 @@ using Swashbuckle.AspNetCore.SwaggerUI;
 using System.Linq;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using WebApplication1.Models;
+//using WebApplication1.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,7 +24,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext <EcoPowerSolutionsContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext <ApplicationDbContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -69,7 +69,7 @@ builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnC
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Your API", Version = "v1" });
+    //c.SwaggerDoc("v1", new OpenApiInfo { Title = "Your API", Version = "v1" });
 
     // Define the Bearer token security scheme
     var securityScheme = new OpenApiSecurityScheme
@@ -81,7 +81,7 @@ builder.Services.AddSwaggerGen();
         Scheme = "Bearer",
         BearerFormat = "JWT"
     };
-    c.AddSecurityDefinition("Bearer", securityScheme);
+    //c.AddSecurityDefinition("Bearer", securityScheme);
 
     // Require the Bearer token for all API operations
     var securityRequirement = new OpenApiSecurityRequirement
@@ -98,8 +98,8 @@ builder.Services.AddSwaggerGen();
             new List<string>()
         }
     };
-    c.AddSecurityRequirement(securityRequirement);
-});
+    //c.AddSecurityRequirement(securityRequirement);
+};
 
 var app = builder.Build();
 
