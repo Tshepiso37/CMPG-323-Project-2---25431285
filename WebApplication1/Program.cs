@@ -109,20 +109,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-else 
-{
-    app.UseSwagger();
-    app.UseSwaggerUI(options =>
-    {
-        options.SwaggerEndpoint("/swagger/v1/swagger.json", "EcoPowerSolutions");
-        options.RoutePrefix = string.Empty;
-    }
-    );
-}
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
+
+IConfiguration configuration = app.Configuration;
+IWebHostEnvironment environment = app.Environment;
+
 
 app.MapControllers();
 
