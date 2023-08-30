@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itstudent\\Desktop\\25431285-Twapa\\25431285-20230824T172353Z-001\\25431285\\Project2\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\itstudent\\Documents\\GitHub\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itstudent\\Desktop\\25431285-Twapa\\25431285-20230824T172353Z-001\\25431285\\Project2\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\itstudent\\Documents\\GitHub\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itstudent\\Desktop\\25431285-Twapa\\25431285-20230824T172353Z-001\\25431285\\Project2\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\itstudent\\Documents\\GitHub\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\itstudent\\Desktop\\25431285-Twapa\\25431285-20230824T172353Z-001\\25431285\\Project2\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\itstudent\\Documents\\GitHub\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itstudent\\Desktop\\25431285-Twapa\\25431285-20230824T172353Z-001\\25431285\\Project2\\CMPG-323-Project-2---25431285\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\itstudent\\Documents\\GitHub\\CMPG-323-Project-2---25431285\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

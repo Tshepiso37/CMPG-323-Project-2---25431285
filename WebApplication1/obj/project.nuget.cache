@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EQtMpIS+MqfrcHoXK3/fd8K5QavI5iZPuEesMiYPa0K2J/E0j40P3BQqCBk9+tpGvIzFpcmETA37B+VYKzwNcg==",
+  "dgSpecHash": "dLC7VsnhPSHaX3YsNGndKPQLgJe9Cwqs21w/uKAhnBmqcQUVg0ykr6g0pvvUEF8aJiHHysymUu01S4HlCMe6Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\itstudent\\Desktop\\25431285-Twapa\\25431285-20230824T172353Z-001\\25431285\\Project2\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\itstudent\\Documents\\GitHub\\CMPG-323-Project-2---25431285\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
