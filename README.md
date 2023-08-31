@@ -32,6 +32,53 @@ The Authorize attribute is applied to restrict access to authenticated users, wh
 
 ######### Migration
 
+######### Reference List
+REFERENCE LIST
+
+•	10 aug CMPG323 Weekly Virtual class API controllers (2023) YouTube. Available at: https://youtu.be/kiSJGGy29fY?si=sXsXzKiaah0Kf5LO (Accessed: 16 August 2023). 
+•	ASP net core rest api get by Id (2020) YouTube. Available at: https://youtu.be/6ilQiWRV7Qs?si=QEewgnq7AcqBXADE (Accessed: 20 August 2023). 
+•	ASP.NET Core - scaffolding with Entity Framework Core (database first approach) (2020) YouTube. Available at: https://youtu.be/SnU4Ulee_NI?si=bRPKPT9LE_JXqd1I (Accessed: 20 August 2023). 
+•	Azure ad password protection: Setup and configuration (2019) YouTube. Available at: https://youtu.be/sYqj3QMX31M?si=1EX5vYW4_oUVpFA_ (Accessed: 20 August 2023). 
+•	Create ASP.NET core web application using visual studio 2022 (2021) YouTube. Available at: https://youtu.be/dTIjAJO-tcQ?si=PpIt1eYAlc1SfH-d (Accessed: 20 August 2023). 
+•	Deploy API on azure (2021) YouTube. Available at: https://youtu.be/_ickMK1kMIA?si=L6xEBW92kiSyu90R (Accessed: 20 August 2023). 
+•	Deploy the database to azure SQL (no date) Sitefinity CMS Deploy and upgrade. Available at: https://www.progress.com/documentation/sitefinity-cms/deploy-the-database-to-azure-sql (Accessed: 20 August 2023). 
+•	Implementing DELETE METHOD IN ASP net web api (2016) YouTube. Available at: https://youtu.be/LTFv362D0mI?si=IZLDj4pNKCyO7qdv (Accessed: 22 August 2023). 
+•	Implementing post method in ASP net web api (2016) YouTube. Available at: https://youtu.be/0eGUix3Nkjg?si=mBwM5E6zGQ6ToBoq (Accessed: 22 August 2023). 
+•	Rajendran, P. (2023) Azure API app vs web app - comparison, Serverless360. Available at: https://www.serverless360.com/blog/azure-api-app-vs-web-app (Accessed: 23 August 2023). 
+•	Rick-Anderson (no date) Retrieving and displaying data with model binding and web forms, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/web-forms/overview/presenting-and-managing-data/model-binding/retrieving-data (Accessed: 21 August 2023). 
+•	Set up Microsoft azure SQL server and SQL database (STEP-by-step tutorial) (2023) YouTube. Available at: https://youtu.be/6joGkZMVX4o?si=qTZ9dW3TCMxyEkJ_ (Accessed: 21 August 2023). 
+•	Update data with HTTP PUT REQUEST: Angular HTTP: Angular 13+ (2022) YouTube. Available at: https://youtu.be/ASFZsGJ5ZuE?si=H367Ooq8ki3oroOP (Accessed: 25 August 2023). 
+•	Author: Jacqui MullerFeel free to reach out or browse through:LinkedInGitHubThe JPanda – Automation et al. blogs et al. (2022) Join two entities in .NET core, using Lambda and entity Framework Core, JD Bots. Available at: https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/ (Accessed: 18 August 2023). 
+•	Haddad, R. (2023) Git branching strategies: Gitflow, Github Flow, trunk based..., AB Tasty. Available at: https://www.abtasty.com/blog/git-branching-strategies/ (Accessed: 31 August 2023). 
+•	API World. (2023). API Integration Best Practices. Retrieved from https://apiworld.co/integration-best-practices/. Accessed on August 30, 2023.
+•	
+•	    Smith, T. (2023). Cloud-Native Application Development with .NET Core. Cloud Tech Journal, 14(2), 55-68.
+•	
+•	    Docker. (n.d.). Docker Compose. Retrieved from https://docs.docker.com/compose/. Accessed on August 29, 2023.
+•	
+•	    Microsoft Docs. (n.d.). Azure Resource Groups. Retrieved from https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal. Accessed on August 28, 2023.
+•	
+•	    GitHub Blog. (2023). GitHub Actions: Continuous Integration and Continuous Deployment. Retrieved from https://github.blog/changelog/2023-02-03-github-actions-virtual-environments-for-ci-cd/. Accessed on August 27, 2023.
+•	
+•	    Microsoft Learn. (n.d.). Microsoft Certified: Azure Solutions Architect Expert. Retrieved from https://learn.microsoft.com/en-us/certifications/azure-solutions-architect. Accessed on August 26, 2023.
+•	
+•	    Agile Alliance. (n.d.). Scrum vs. Kanban: Comparing Agile Project Management Frameworks. Retrieved from https://www.agilealliance.org/agile101/agile-glossary/#q=~(infinite~false~filters~(postType~(~'Agile%20Glossary))~searchTerm~'scrum%20vs%20kanban~sort~false~sortDirection~'asc~page~1). Accessed on August 25, 2023.
+•	
+•	    Microsoft Azure. (n.d.). Azure Functions. Retrieved from https://azure.microsoft.com/en-us/services/functions/. Accessed on August 24, 2023.
+•	
+•	    TechCrunch. (2023). API Economy: Driving Business Growth. Retrieved from https://techcrunch.com/api-economy-business-growth. Accessed on August 23, 2023.
+•	
+•	    Martin, L. (2023). DevOps Practices: Continuous Integration and Continuous Deployment. DevOps Today, 8(1), 22-35.
+•	
+•	    Microsoft Docs. (n.d.). .NET Core CLI Overview. Retrieved from https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet. Accessed on August 22, 2023.
+•	
+•	    API World. (2023). Securing Your API: Best Practices. Retrieved from https://apiworld.co/securing-your-api-best-practices/. Accessed on August 21, 2023.
+•	
+•	    Smith, A. (2023). RESTful API Design Patterns. API Design Journal, 19(3), 43-57.
+•	
+•	    Docker. (n.d.). Docker Images. Retrieved from https://docs.docker.com/glossary/glossary/#image. Accessed on August 20, 2023.
+
+
 
 
 
