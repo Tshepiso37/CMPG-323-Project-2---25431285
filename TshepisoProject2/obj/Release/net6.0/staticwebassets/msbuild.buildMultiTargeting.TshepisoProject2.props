@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TshepisoProject2.props" />
+</Project>
