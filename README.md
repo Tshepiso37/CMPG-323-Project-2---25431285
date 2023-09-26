@@ -23,20 +23,20 @@ Scaffolding the database involves generating an Entity Framework model derived f
 ###### Authentical Folder
 An Authentical folder was created, with all related files pertaining to the Authentication folder. The following classes were in the Authentication folder are: ApplicationUser.cs(which contains properties for UserName PasswordHash, email), ApplicationDbContext.cs(providing all necessary database sets properties nedded to manage the identity tables in the SQL Server), UserRoles.cs(needs to identify the respective roles types - either admin or user), RegisterModel.cs(requires the user to register using the user name, email, and password), LoginModel.cs(once user has registred, then they can login using the username and password), Response.cs(gives a response in terms of a message, stating the status) with code added to the respective classes
 
-####### Controllers folder
+###### Controllers folder
 AuthenticationController handles the authentication and registration endpoints for the users.
 The constructor injects instances of UserManager, RoleManager, and IConfiguration services. These services are used to manage user data, roles, and configuration.
 Login Endpoint takes a LoginModel object as a parameter, which contains the user's username and password. If the provided credentials are valid, it generates a JWT token containing the user's claims and returns it.
 
-######## Program.cs
+###### Program.cs
 The program.cs has been updated with the provided code.
 
-######### WeatherForecast
+###### WeatherForecast
 The Authorize attribute is applied to restrict access to authenticated users, which is applied at the controller level.
 
-########## Migration
+###### Migration
 
-########### Reference List
+###### Reference List
 REFERENCE LIST
 
 •	10 aug CMPG323 Weekly Virtual class API controllers (2023) YouTube. Available at: https://youtu.be/kiSJGGy29fY?si=sXsXzKiaah0Kf5LO (Accessed: 16 August 2023). 
